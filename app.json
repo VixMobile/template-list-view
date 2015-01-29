@@ -8,5 +8,6 @@
 "sortWeight":"0.6",
 "keywords":[""],
 "highlights" : [""],
-"relationship":"list view"
+"relationship":"list view",
+"projectTypeName": "com.intel.xdk.projecttype.webapp"
 }
