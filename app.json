@@ -1,13 +1,20 @@
 {
-"reponame":"template-list-view",
-"title":"List View App",
-"tooltip":"Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
-"description":"Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
-"articleUrl":"http://software.intel.com/en-us/html5/articles/templates-to-get-started-with-html5-mobile-app-development",
-"visible" : "true",
-"sortWeight":"0.6",
-"keywords":[""],
-"highlights" : [""],
-"relationship":"list view",
-"projectTypeName": "com.intel.xdk.projecttype.webapp"
+   "repoName" : "template-list-view",
+   "tooltip" : "Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
+   "title" : "List View App",
+   "relName" : null,
+   "sortWeight" : "0.6",
+   "visible" : "true",
+   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
+   "keywords" : [
+      ""
+   ],
+   "description" : "Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
+   "appName" : null,
+   "appPreview" : null,
+   "relationship" : "list view",
+   "highlights" : [
+      ""
+   ],
+   "articleUrl" : "http://software.intel.com/en-us/html5/articles/templates-to-get-started-with-html5-mobile-app-development"
 }
