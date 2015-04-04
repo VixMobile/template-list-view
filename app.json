@@ -1,13 +1,21 @@
 {
-"reponame":"template-list-view",
-"title":"List View App",
-"tooltip":"Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
-"description":"Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
-"articleUrl":"https://software.intel.com/en-us/xdk/docs/templates-to-get-started-with-xdk-app-development",
-"visible" : "true",
-"sortWeight":"0.6",
-"keywords":[""],
-"highlights" : [""],
-"relationship":"list view",
-"projectTypeName": "com.intel.xdk.projecttype.webapp"
+   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
+   "description" : "Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
+   "sortWeight" : "0.6",
+   "articleUrl" : "https://software.intel.com/en-us/xdk/docs/templates-to-get-started-with-xdk-app-development",
+   "highlights" : [
+      ""
+   ],
+   "mobile" : false,
+   "relationship" : "list view",
+   "relName" : null,
+   "appPreview" : false,
+   "title" : "List View App",
+   "appName" : null,
+   "keywords" : [
+      ""
+   ],
+   "visible" : true,
+   "repoName" : "template-list-view",
+   "tooltip" : "Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app."
 }
